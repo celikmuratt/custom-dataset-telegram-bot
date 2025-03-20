@@ -42,7 +42,7 @@ This project is a Telegram chatbot that uses a custom dataset to provide answers
 ## License
 This project is open source and available under the MIT License.
 
-![image](https://github.com/user-attachments/assets/1a3bf18d-48f4-4d9e-b76c-9174b5117e95)
+![desktp](https://github.com/user-attachments/assets/2743e38f-86e7-404a-b205-3099cab86f94)
 
 
 
@@ -91,6 +91,5 @@ Bu proje, özelleştirilmiş bir veri kümesiyle çalışan bir Telegram sohbet 
 ## Lisans
 Bu proje açık kaynaklıdır ve MIT Lisansı altında kullanılabilir.
 
-![image](https://github.com/user-attachments/assets/63cc327b-6c3b-4c79-a972-49528e8c2a2a)
+![desktp](https://github.com/user-attachments/assets/dba6f7e0-0d8a-44b4-9a5f-84cdb709090b)
 
-![image](https://github.com/user-attachments/assets/61b661e1-79f7-4370-8746-51b9724dfdc2)
